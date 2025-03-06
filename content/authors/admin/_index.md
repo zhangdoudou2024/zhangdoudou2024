@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Doudou ZHANG 张豆豆
+title: Doudou ZHANG
 
 # Full name (for SEO)
 first_name: Doudou
@@ -22,7 +22,7 @@ organizations:
   url: https://www.hkust-gz.edu.cn/
   
 # Short bio (displayed in user profile at end of posts)
-bio: I am a first year M.Phil. student in Artificial Intelligence at HKUST(GZ), supervised by [Prof. Ying-Cong Chen](https://www.yingcong.me/), he is super nice! Previously, I obtained a bachelor degree in Network Engneering at WHU with Honors. My research interests include video generation, computer vision．
+bio: I am a first year M.Phil. student in Artificial Intelligence at HKUST(GZ), supervised by Prof.[Ying-Cong Chen](https://www.yingcong.me/), he is super nice! Previously, I obtained a bachelor degree in Network Engneering at WHU with Honors. My research interests include video generation, computer vision．
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -41,4 +41,4 @@ profiles:
 
 ## About Me
 
-Doudou ZHANG is a first year M.Phil. student in Artificial Intelligence at HKUST(GZ), supervised by [Prof. Ying-Cong Chen](https://www.yingcong.me/), he is super nice! Previously, I obtained a bachelor degree in Network Engneering at WHU with Honors. My research interests include video generation, computer vision．
+Doudou ZHANG is a first year M.Phil. student in Artificial Intelligence at HKUST(GZ), supervised by Prof.[Ying-Cong Chen](https://www.yingcong.me/), he is super nice! Previously, I obtained a bachelor degree in Network Engneering at WHU with Honors. My research interests include video generation, computer vision．
