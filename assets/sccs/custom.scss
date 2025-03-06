@@ -1,0 +1,37 @@
+// 主要链接颜色
+a {
+    color: #1565c0;  // 使用蓝色
+    &:hover {
+      color: #0d47a1;  // 深蓝色
+    }
+  }
+  
+  // 按钮样式
+  .btn-primary {
+    background-color: #1565c0;
+    border-color: #1565c0;
+    &:hover {
+      background-color: #0d47a1;
+      border-color: #0d47a1;
+    }
+  }
+  
+  // 导航栏文字颜色
+  .navbar {
+    .navbar-nav .nav-link {
+      color: #000000;  // 黑色
+      &:hover {
+        color: #1565c0;  // 蓝色
+      }
+    }
+  }
+  
+  // 标题文字颜色
+  h1, h2, h3, h4, h5, h6 {
+    color: #000000;
+  }
+  
+  // 正文文字颜色
+  body {
+    color: #333333;
+  }

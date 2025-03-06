@@ -1,0 +1,17 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景 -->
+  <rect width="512" height="512" rx="80" fill="#2C3E50"/>
+  
+  <!-- Z元素 - 主要元素 -->
+  <path d="M140 160H320L140 352H320" stroke="#FFFFFF" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  
+  <!-- 第一个D元素 -->
+  <path d="M340 160C340 160 380 160 380 200V312C380 352 340 352 340 352" stroke="#3498DB" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  
+  <!-- 第二个D元素 -->
+  <path d="M400 160C400 160 440 160 440 200V312C440 352 400 352 400 352" stroke="#3498DB" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  
+  <!-- 装饰点 -->
+  <circle cx="140" cy="160" r="10" fill="#E74C3C"/>
+  <circle cx="320" cy="352" r="10" fill="#E74C3C"/>
+</svg>

@@ -6,7 +6,14 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: blue
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: L
+  icon:
+    icon_pack: custom
+    icon_path: media/icons/ZDD_icon.svg
 
 # SEO
 marketing:
